@@ -4,7 +4,7 @@ programa
 	funcao inicio()
 	{
 		real Va,VaP,VpI,T
-		escreva("Valor da viagem para alemanha:\n")
+		escreva("Valor da viagem para Alemanha:\n")
 		leia (Va)
 		escreva("Valor da viagem para Alemanha -> portugal:\n")
 		leia (VaP)
@@ -20,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 329; 
+ * @POSICAO-CURSOR = 120; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
